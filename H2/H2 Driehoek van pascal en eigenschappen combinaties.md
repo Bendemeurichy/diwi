@@ -6,6 +6,6 @@
 
 
 ### driehoek van Pascal
-uit de formule van Stifle Pascal kunnen we een recursieve formule vinden voor de binomiaalcoëfficienten.
+uit de formule van Stifel Pascal kunnen we een recursieve formule vinden voor de binomiaalcoëfficienten.
 
 ![Driehoek van Pascal - Uitvinder Blaise Pascal](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fuitvinderblaisepascal.weebly.com%2Fuploads%2F2%2F1%2F1%2F7%2F21176956%2F__1372859615.jpg&f=1&nofb=1)

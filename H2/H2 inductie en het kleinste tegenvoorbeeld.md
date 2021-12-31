@@ -5,7 +5,7 @@ Dan kunnen we uit het ongerijmde tewerk gaan; als S ≠ N* dan bestaat er wegens
 ### het inductieprincipe
 Veronderstel dat S een deelverzameling is van N\* waarvoor
 a) 1 ∈ S
-b) voor ele k ∈ N* geldt: k ∈ S impliceert dat k+1 ∈ S.
+b) voor elke k ∈ N* geldt: k ∈ S impliceert dat k+1 ∈ S.
 dan is S = N*
 
 Als we gebruik maken van het principe van het kleinste tegenvoorbeeld en veronderstellen dat S ≠ N* en m het kleinste tegenvoorbeeld: m ∈ N* \ S.

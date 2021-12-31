@@ -3,13 +3,13 @@
 
 ![[basisnotaties verzamelingen.png]]
 
-#### definities
+##### definities
 
 *verzameling*:  een groep van verschillende en duidelijk gedefinieerde dingen (=*elementen*), indien de elementen niet verschillend moeten zijn spreken we van een *familie* of *multiverzameling*
 
 *singelton*: verzameling van 1 element
 
-#### eigenschappen
+##### eigenschappen
 1. *Commutatieve eigenschap*
 	A Ս B = B Ս A
 	A ∩ B = B ∩ A
