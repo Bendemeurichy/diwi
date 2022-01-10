@@ -3,7 +3,7 @@
 de herhallingspermutatie van ($^n$$_n$$_1$$,$ $_n$$_2$$,$ ...,$_n$$_k$) = ![[Pasted image 20211227191631.png]]
 
 *bewijs*
-als we n objecten inkleuren met een bepaalde kleur hebben we ($_n$$^n$$^1$) mogelijkheden voor de eerste kleur ($_n$$^n$$^1$ $^-$$^n$$^2$) voor de 2de kleer etc. Het totaal aantal kleuringen is dus gelijk aan het product van al deze mogelijkheden. hierbij is de som van alle n$_i$=n
+als we n objecten inkleuren met een bepaalde kleur hebben we ($_n$$_1$$^n$) mogelijkheden voor de eerste kleur ($^n$$_n$$_1$ $_-$$_n$$_2$) voor de 2de kleur etc. Het totaal aantal kleuringen is dus gelijk aan het product van al deze mogelijkheden. hierbij is de som van alle n$_i$=n
 
 ![[Pasted image 20211227192320.png]]
 

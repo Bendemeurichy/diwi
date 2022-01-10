@@ -11,7 +11,7 @@ als deze som bestaat, dit is als S een eindige verzameling is
 de verwachtingswaarde is dus het moment van de eerste orde.
 
 *variantie* de variantie wordt gedefinieerd als 
-var(X) = E[(X -E[X]$^2$)]
+var(X) = E[(X -E[X])$^2$]
 de *standaardafwijking* van een toevalsveranderlijke X wordt gedefinieerd als σx
 ![[Pasted image 20211228200228.png]]
 

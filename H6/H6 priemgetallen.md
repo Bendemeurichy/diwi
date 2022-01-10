@@ -1,10 +1,10 @@
 ### priemgetallen
 Een positief getal p wordt eeen priemgetal genoemd  als p precies 2 positieve delers bezit (1 en zichzelf). 1 is geen priemgetal. 
-Elk getal kan dus geschreven worden als het product van 2 priemgetallen.
+Elk getal kan dus geschreven worden als het product van  priemgetallen.
 
 *bewijs*
 We passen het principe van het [[H2 inductie en het kleinste tegenvoorbeeld#het kleinste tegenvoorbeeld|kleinste tegenvoorbeeld]] toe.
-veronderstel dus dat m het kleinste getal is in N\{0,1} dat niet te schrijven is als het product van priemfactoren. 
+veronderstel dus dat m het kleinste getal is in N\\{0,1} dat niet te schrijven is als het product van priemfactoren. 
 Dan kan m vanzelfsprekend geen priemgetal zijn, en dus moet m samengesteld zijn: stel m = m$_1$m$_2$ met m$_1$, m$_2$ ∈ N \{2,m-1}. Aangezien echter m het kleinste tegenvoorbeeld was, bezitten zowel m$_1$ als m$_2$ elk een ontbinding in priemfactoren. Hieruit kunnen we afleiden dat m zelf ook een ontbinding van priemfactoren bevat en dat is tegen de veronderstelling dat m het kleinste tegenvoorbeeld was. Hiermee hebben we de stelling bewezen
 
 ###### stelling van euclides : 

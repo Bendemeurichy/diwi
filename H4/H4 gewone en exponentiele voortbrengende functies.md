@@ -5,7 +5,7 @@ Bij een telprobleem van type A worden natuurlijke getallen gecreëerd als uitkom
 Bij telproblemen van type A zoeken we naar de coëfficient van het element in de reeks waar we de opl voor zoeken.
 
 (1+x)$^n$ is de gewone voortbrengende functie voor combinaties zonder herhaling
-voor combinaties met herhaling is de voortbrengende functie (1 /1-x)$ $^n$ 
+voor combinaties met herhaling is de voortbrengende functie (1 /1-x) $^n$ 
 
 ### exponentieel voortbrengende functie
 Indien we formele machtreeksen gebruiken met coëfficiënten a$_k$ / k! ipv a$_k$ krijgen we exponentieel voortbrengende functies van de vorm 

@@ -21,3 +21,16 @@ n/P= n(1 / p$_j$$_1$) (1 / p$_j$$_2$) ...(1 / p$_j$$_i$ )
 waarbij 1<=j$_1$ < j$_2$ < ... <j$_i$ <= k. Hieruit volgt dat
 
 ![[Pasted image 20211230201835.png]]
+
+___
+###### gevolgen eulerfunctie
+1) indien de positieve natuurlijke getallen n en m geen gemeenschappelijke priemfactoren hebben is Φ(mn)=Φm\*Φn
+dit volgt onmiddelijk uit de formule voor de euler functie
+
+2) voor elk natuurlijk getal n geldt dat de som van Φ van alle delers van n  =n
+
+**bewijs**
+het aantal positieve breuken kleiner dan of gelijk aan 1 met noemer gelijk aan n, maw van de vorm k/n met k<=n
+is uiteraard gelijk aan n. als we deze breuken nu zo ver mogelijk vereenvoudigen , dan krijgen we voor elke deler d van n een aantal breuken van de vorm j/d met j<=d en gcd(j,d)=1
+
+Voor elke d zijn er bijgevolg Φ(d) dergelijke breuken.Elk van de n breuken heeft juist één vereenvoudigde vorm, zodat de stelling bewezen is.

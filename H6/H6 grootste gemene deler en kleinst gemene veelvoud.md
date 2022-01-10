@@ -1,6 +1,6 @@
 ### lcm en gcd
 ###### stelling van Bézout
-Als a en b gehele getaleln zijn die niet beide nul zijn en dat d =gcd(a,b). dan bestaan er gehele getallen m en n zodanig dat am+bn=d
+Als a en b gehele getallen zijn die niet beide nul zijn en dat d =gcd(a,b). dan bestaan er gehele getallen m en n zodanig dat am+bn=d
 
 ###### gevolgen stelling bézout
 als voor drie gehele getallen a,b,c met (b,c)≠(0,0) geldt dat c|ab en dat gcd(b,c)=1, dan is c|a

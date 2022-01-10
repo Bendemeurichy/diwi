@@ -26,5 +26,5 @@ P(A$_i$ | B) = P(A$_i$) P( B | A$_i$) / P(B)
 aangezien P(B) P(A$_i$ | B) en P(A$_i$) P( B | A$_i$) beiden gelijk is P (A$_i$ ∩ B). Met de totalekansformule kunnen we de noemer van het rechterlid ook nog verder uitschrijven.
 
  >inferentie (inference)
- >Om de kans dat een bepaalde oorzaak en effect veroorzaken kunnen we ook de regel van Bayes gebruiken. de kans op een bepaalde oorzaak na het voordoen van een bepaald effect = P (A$_i$ | B)
+ >Om de kans dat een bepaalde oorzaak een effect veroorzaken kunnen we ook de regel van Bayes gebruiken. de kans op een bepaalde oorzaak na het voordoen van een bepaald effect = P (A$_i$ | B)
 

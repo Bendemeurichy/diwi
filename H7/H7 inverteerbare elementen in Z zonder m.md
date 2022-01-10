@@ -7,7 +7,7 @@ Zij r ∈ Z. dan is het element [r] van Z/m inverteerbaar als en slechts als r e
 veronderstel dat [r] inverteerbaar is. Dan bestaat er een geheel getal x, 
 zodanig dat rx $\equiv$ 1(mod m). Bijgevolg bestaat er een k∈Z zodanig dat rx-1=km, of rx -km = 1
 
-Elke gemene deler van r en van m is dus bijgevolg ook een delr van 1, of met andere woorden gcd(r,m)=1.
+Elke gemene deler van r en van m is dus bijgevolg ook een deler van 1, of met andere woorden gcd(r,m)=1.
 Omgekeerd, veronderstel dat r en m onderling ondeelbaar zijn, dan bestaan er gehele getallen x en y , zodanig dat rx + my= 1 [[H6 grootste gemene deler en kleinst gemene veelvoud#gevolgen stelling bézout|gevolgen stelling bézout]] hetgeen gelijkwaardig is met xr $\equiv$  1 (mod m) 
 
 ###### stelling van Euler
