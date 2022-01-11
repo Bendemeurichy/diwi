@@ -14,7 +14,7 @@ P( A ∩ B$^c$) = P(A) -  P(A) P(B) = P(A)( 1- P(B)) =  P(A) P(B$^c$)
 
 hieruit volgt dat A en B$^c$ onafhankelijk zijn. Door nu dezelfde redenering te gebruiken op A zien we dat ook A$^c$ en B$^c$ onafhankelijk zijn.
 
-##### onafhaneklijkheid van een stel gebeurtenissen
+##### onafhankelijkheid van een stel gebeurtenissen
 We noemen gebeurtenissen onafhankelijk als
 ![[Pasted image 20211228165931.png]]
 

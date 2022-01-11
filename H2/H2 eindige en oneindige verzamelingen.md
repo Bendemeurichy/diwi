@@ -44,4 +44,4 @@ waarbij
 x$_i$ = a/b/c/...$_i$ + 1 als a/b/c/...$_i$ <= 7
 1 als a/b/c/...$_i$ ∈ {8, 9}
 
-omdat x$_i$ nooit gelijk is aan 0 of 9 is de definitie van x altijd uniek. nu zal voor elke n ∈ N het getal x verschillend zijn van f(n) als beide getallen verschllen op de (n+1)ste plaats na de komma. bijgevolg is het interval [0, 1] en dus ook de verameling R niet aftelbaar zijn
+omdat x$_i$ nooit gelijk is aan 0 of 9 is de definitie van x altijd uniek. nu zal voor elke n ∈ N het getal x verschillend zijn van f(n) als beide getallen verschillen op de (n+1)ste plaats na de komma. bijgevolg is het interval [0, 1] en dus ook de verameling R niet aftelbaar zijn
