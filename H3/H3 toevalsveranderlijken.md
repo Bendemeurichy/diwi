@@ -20,6 +20,10 @@ en 1-p als x=0
 Een toevalsvariabele is binomiaal verdeeld als de kansmassafunctie gellijk is aan 
 px(k) = ($_k$$^n$) p$^k$ (1-p)$^n$$^-$$^k$  voor k= 0,... ,n
 
+1=(p+(1-p))$^n$ = som van p$^k$(1-p)$^n$$^-$$^k$ voor k van o tot en met n
 ###### geometrisch verdeelde toevalsvariabele
 Een toevalsvariabele is geometrisch verdeeld als de kansmassafunctie gelijk is aan
 px(k)=p(1 - p)$^k$$^-$$^1$ 
+
+![[Pasted image 20220111111639.png]]
+
